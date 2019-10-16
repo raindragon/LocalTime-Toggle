@@ -13,3 +13,5 @@ sudo chmod +x fix_time_osx.sh
 
 If all went well, upon pressing enter on that last command, you should notice the time changed again.
 Sync the clock with the internet, or manually correct the time, and you're done!
+
+Didn't work on macOS Catalina.
